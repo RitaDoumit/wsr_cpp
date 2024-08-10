@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1631038394 source:c:\users\rita\desktop\wsr\main.cpp
+	"invoice.h"
+	"dresses.h"
+	<iostream>
+	<string>
+
+1631128289 c:\users\rita\desktop\wsr\invoice.h
+	<iostream>
+	<iomanip>
+	<string>
+
+1630949526 c:\users\rita\desktop\wsr\dresses.h
+	<string>
+	<iostream>
+

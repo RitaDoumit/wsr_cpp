@@ -1,0 +1,9 @@
+	int DressCode;
+	double RentalPrice;
+	double RetailPrice;
+	char DressSize[STR_SIZE];
+	char DressColor[STR_SIZE];
+	char DressDesigner[STR_SIZE];
+	char DressSupplier[STR_SIZE];
+	char SupplierNb[STR_SIZE];
+	char DatesOfRental[STR_SIZE][10];
